@@ -59,7 +59,9 @@
 
 </div>
 <br/>
+### 📈 My GitHub Activity Graph
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varshagupta143&theme=tokyo-night)
 
 <!--Footer--> 
 <p align="center">
