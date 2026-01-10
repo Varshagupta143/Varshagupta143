@@ -15,7 +15,7 @@
 > - 🧠 I’m constantly learning and exploring new technologies to improve my skills.
 > - 🤝 I'm open to collaborating on open-source projects and innovative applications.
 > - ⚡ Check my repos and get to know a more of my journey and stack.
-> - 💬 Ask me about C++, JavaScript, Dart, Flutter, Nodejs and building scalable web and mobile applications.
+> - 💬 Ask me about C++, JavaScript,,Java ,Spring Boot and building scalable web applications.
 
 ##
 <!--Profile view counter-->
@@ -25,12 +25,12 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,nodejs,express,mongo,git,vscode,postman,linux,mysql,github,unreal&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,nodejs,express,mongo,git,vscode,postman,springboot ,linux,mysql,github,unreal&perline=10"  />
 </p>
 <br />
 
 <p align="center">
-<img width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varhsagupta143&layout=compact"  />
+<img width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshagupta143&layout=compact"  />
 </p>
 
 <br />
