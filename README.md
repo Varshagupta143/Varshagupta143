@@ -53,7 +53,7 @@
 <a href="https://auth.geeksforgeeks.org/user/varshakajb3n/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="varshakajb3n/profile" height="30" width="40" /></a> 
 <a href="mailto:varshakarodia21@gmail.com" target="blank">
   <img align="center" 
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
        alt="email" 
        height="30" 
        width="40" />
