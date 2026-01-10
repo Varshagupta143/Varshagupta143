@@ -47,9 +47,11 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="www.linkedin.com/in/varshagupta143" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+ <a href="https://www.linkedin.com/in/varshagupta143" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+
 <a href="mailto:varshakarodia21@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=varshakarodia21@gmail.com mail style="margin-bottom: 5px;" />
 </a>
