@@ -18,8 +18,7 @@
 > - 💬 Ask me about C++, JavaScript,,Java ,Spring Boot and building scalable web applications.
 
 ##
-<!--Profile view counter-->
-![](https://komarev.com/ghpvc/?username=Varshagupta143&style=for-the-badge&color=blueviolet)
+
 
 ##
 <!--Languages and Tools Section-->       
